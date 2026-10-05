@@ -1,0 +1,50 @@
+/* Written by tools/analyze-assets.mjs from the asset pixels. Do not edit by hand.
+   This is the only source file that may hold colour literals.
+   Every hex below is a real pixel of a brand or reference asset (see palette.json for region and cluster share).
+   Everything after the sampled block is derived with color-mix() and introduces no new literal. */
+:root {
+  color-scheme: dark;
+  --ink: #0c1c3d; /* reference/FOLIO 1.jpg.jpeg @ 952,152 - k-means (k=4, region) -> darkest cluster (>=2% share) -> nearest real pixel */
+  --ink-soft: #2f3847; /* reference/FOLIO 1.jpg.jpeg @ 1236,308 - k-means (k=4, region) -> darkest cluster (>=2% share) -> nearest real pixel */
+  --blue: #496dce; /* brand/LOGO FOLIO PNG.png @ 792,1100 - k-means (k=4, region) -> largest cluster (>=2% share) -> nearest real pixel */
+  --lilac: #9da7ca; /* brand/LOGO FOLIO PNG.png @ 1057,540 - k-means (k=4, region) -> largest cluster (>=2% share) -> nearest real pixel */
+  --cream: #e8dec5; /* brand/LOGO FOLIO PNG.png @ 20,20 - k-means (k=4, region) -> largest cluster (>=2% share) -> nearest real pixel */
+  --sky: #cfe3ec; /* reference/FOLIO 1.jpg.jpeg @ 1245,20 - k-means (k=4, region) -> largest cluster (>=2% share) -> nearest real pixel */
+  --meadow: #d0c99b; /* reference/FOLIO 1.jpg.jpeg @ 1186,623 - k-means (k=4, region) -> largest cluster (>=2% share) -> nearest real pixel */
+  --green: #047549; /* reference/FOLIO 1.jpg.jpeg @ 868,457 - max-chroma real pixel inside region */
+  --red: #f94e44; /* reference/FOLIO 1.jpg.jpeg @ 185,688 - max-chroma real pixel inside region */
+  --amber: #e6b02c; /* reference/FOLIO 1.jpg.jpeg @ 975,866 - max-chroma real pixel inside region */
+  --rust: #a66c47; /* reference/FOLIO 1.jpg.jpeg @ 317,548 - k-means (k=4, region) -> saturated cluster (>=2% share) -> nearest real pixel */
+  --fur: #2f2116; /* reference/FOLIO 1.jpg.jpeg @ 625,656 - k-means (k=4, region) -> darkest cluster (>=2% share) -> nearest real pixel */
+
+  /* derived surfaces, dark */
+  --bg: color-mix(in srgb, var(--ink) 52%, black);
+  --s1: color-mix(in srgb, var(--ink) 74%, black);
+  --s2: var(--ink);
+  --s3: color-mix(in srgb, var(--ink) 84%, var(--blue));
+  --line: color-mix(in srgb, var(--lilac) 15%, transparent);
+  --line2: color-mix(in srgb, var(--lilac) 26%, transparent);
+  --tx: color-mix(in srgb, var(--cream) 34%, white);
+  --mut: color-mix(in srgb, var(--lilac) 82%, var(--ink));
+  --mut2: color-mix(in srgb, var(--lilac) 52%, var(--ink));
+
+  /* derived surfaces, light */
+  --paper: color-mix(in srgb, var(--cream) 62%, white);
+  --paper2: var(--cream);
+  --paper3: color-mix(in srgb, var(--cream) 82%, var(--sky));
+  --pline: color-mix(in srgb, var(--ink) 14%, transparent);
+  --ptx: var(--ink);
+  --pmut: var(--ink-soft);
+
+  /* derived accents */
+  --neon: color-mix(in srgb, var(--blue) 58%, white);
+  --glow: color-mix(in srgb, var(--blue) 55%, transparent);
+  --glow-soft: color-mix(in srgb, var(--blue) 24%, transparent);
+  --ok: color-mix(in srgb, var(--green) 62%, white);
+  --warn: var(--amber);
+  --bad: var(--red);
+  --shade: color-mix(in srgb, var(--bg) 78%, transparent);
+  --veil: color-mix(in srgb, var(--bg) 58%, transparent);
+  --white: white;
+  --black: black;
+}

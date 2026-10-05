@@ -1,0 +1,917 @@
+{
+  "files": [
+    {
+      "file": "brand/LOGO FOLIO JPG.jpg.jpeg",
+      "bytes": 137164,
+      "container": {
+        "kind": "jpeg",
+        "sof": "SOF0",
+        "precision": 8,
+        "height": 2000,
+        "width": 2000,
+        "components": 3
+      },
+      "alpha": {
+        "bucketsOf32": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          4000000
+        ],
+        "fullyOpaquePct": 100,
+        "pureBlackTransparentPx": 0
+      },
+      "dominant": [
+        {
+          "hex": "#e8dec5",
+          "x": 0,
+          "y": 0,
+          "share": 0.9189
+        },
+        {
+          "hex": "#4a6ecf",
+          "x": 1006,
+          "y": 837,
+          "share": 0.0479
+        },
+        {
+          "hex": "#9ca6ca",
+          "x": 1119,
+          "y": 514,
+          "share": 0.0297
+        },
+        {
+          "hex": "#627fcb",
+          "x": 936,
+          "y": 1056,
+          "share": 0.0019
+        },
+        {
+          "hex": "#b1b6cc",
+          "x": 1123,
+          "y": 512,
+          "share": 0.0016
+        }
+      ]
+    },
+    {
+      "file": "brand/LOGO FOLIO PNG...png",
+      "bytes": 199629,
+      "container": {
+        "kind": "png",
+        "width": 2000,
+        "height": 2000,
+        "bitDepth": 8,
+        "colourType": 6,
+        "colourTypeName": "truecolour+alpha",
+        "interlace": 0,
+        "hasTRNS": false,
+        "chunks": "IHDR,eXIf,pHYs,iTXt,IDAT,IEND"
+      },
+      "alpha": {
+        "bucketsOf32": [
+          3673496,
+          2718,
+          1922,
+          1831,
+          1600,
+          2339,
+          2370,
+          313724
+        ],
+        "fullyOpaquePct": 7.64,
+        "pureBlackTransparentPx": 3666908
+      },
+      "dominant": [
+        {
+          "hex": "#486dcf",
+          "x": 794,
+          "y": 835,
+          "share": 0.6014
+        },
+        {
+          "hex": "#9ca6ca",
+          "x": 1320,
+          "y": 512,
+          "share": 0.3581
+        },
+        {
+          "hex": "#7391da",
+          "x": 900,
+          "y": 832,
+          "share": 0.0176
+        },
+        {
+          "hex": "#d4d8e5",
+          "x": 898,
+          "y": 521,
+          "share": 0.0118
+        },
+        {
+          "hex": "#e6e6f2",
+          "x": 1377,
+          "y": 597,
+          "share": 0.0064
+        },
+        {
+          "hex": "#b0b9d7",
+          "x": 1217,
+          "y": 511,
+          "share": 0.0048
+        }
+      ]
+    },
+    {
+      "file": "brand/LOGO FOLIO PNG.png",
+      "bytes": 197768,
+      "container": {
+        "kind": "png",
+        "width": 2000,
+        "height": 2000,
+        "bitDepth": 8,
+        "colourType": 6,
+        "colourTypeName": "truecolour+alpha",
+        "interlace": 0,
+        "hasTRNS": false,
+        "chunks": "IHDR,IDAT,IEND"
+      },
+      "alpha": {
+        "bucketsOf32": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          4000000
+        ],
+        "fullyOpaquePct": 100,
+        "pureBlackTransparentPx": 0
+      },
+      "dominant": [
+        {
+          "hex": "#e8dec5",
+          "x": 0,
+          "y": 0,
+          "share": 0.9189
+        },
+        {
+          "hex": "#496dcf",
+          "x": 1199,
+          "y": 837,
+          "share": 0.0479
+        },
+        {
+          "hex": "#9ca6ca",
+          "x": 1125,
+          "y": 514,
+          "share": 0.0296
+        },
+        {
+          "hex": "#627fca",
+          "x": 1278,
+          "y": 895,
+          "share": 0.0019
+        },
+        {
+          "hex": "#b1b6cc",
+          "x": 1256,
+          "y": 951,
+          "share": 0.0016
+        }
+      ]
+    },
+    {
+      "file": "reference/FOLIO 1.jpg.jpeg",
+      "bytes": 400827,
+      "container": {
+        "kind": "jpeg",
+        "sof": "SOF0",
+        "precision": 8,
+        "height": 900,
+        "width": 1600,
+        "components": 3
+      },
+      "alpha": {
+        "bucketsOf32": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1440000
+        ],
+        "fullyOpaquePct": 100,
+        "pureBlackTransparentPx": 0
+      },
+      "dominant": [
+        {
+          "hex": "#e5edef",
+          "x": 588,
+          "y": 44,
+          "share": 0.2749
+        },
+        {
+          "hex": "#a6a380",
+          "x": 1072,
+          "y": 604,
+          "share": 0.1401
+        },
+        {
+          "hex": "#cec99f",
+          "x": 537,
+          "y": 200,
+          "share": 0.1366
+        },
+        {
+          "hex": "#515242",
+          "x": 451,
+          "y": 25,
+          "share": 0.1276
+        },
+        {
+          "hex": "#777963",
+          "x": 213,
+          "y": 49,
+          "share": 0.1276
+        },
+        {
+          "hex": "#c3d9e4",
+          "x": 815,
+          "y": 37,
+          "share": 0.0927
+        },
+        {
+          "hex": "#292519",
+          "x": 262,
+          "y": 210,
+          "share": 0.0719
+        },
+        {
+          "hex": "#14223d",
+          "x": 922,
+          "y": 148,
+          "share": 0.0287
+        }
+      ]
+    },
+    {
+      "file": "reference/FOLIO 2.jpg.jpeg",
+      "bytes": 399734,
+      "container": {
+        "kind": "jpeg",
+        "sof": "SOF0",
+        "precision": 8,
+        "height": 900,
+        "width": 1600,
+        "components": 3
+      },
+      "alpha": {
+        "bucketsOf32": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1440000
+        ],
+        "fullyOpaquePct": 100,
+        "pureBlackTransparentPx": 0
+      },
+      "dominant": [
+        {
+          "hex": "#e5edef",
+          "x": 588,
+          "y": 44,
+          "share": 0.2786
+        },
+        {
+          "hex": "#a6a380",
+          "x": 1072,
+          "y": 604,
+          "share": 0.1402
+        },
+        {
+          "hex": "#cec99f",
+          "x": 537,
+          "y": 200,
+          "share": 0.1366
+        },
+        {
+          "hex": "#515242",
+          "x": 451,
+          "y": 25,
+          "share": 0.1275
+        },
+        {
+          "hex": "#777963",
+          "x": 213,
+          "y": 49,
+          "share": 0.1275
+        },
+        {
+          "hex": "#c2d8e5",
+          "x": 814,
+          "y": 37,
+          "share": 0.0892
+        },
+        {
+          "hex": "#292519",
+          "x": 262,
+          "y": 210,
+          "share": 0.0712
+        },
+        {
+          "hex": "#16243e",
+          "x": 1071,
+          "y": 147,
+          "share": 0.0292
+        }
+      ]
+    },
+    {
+      "file": "reference/FOLIO 3.jpg.jpeg",
+      "bytes": 397542,
+      "container": {
+        "kind": "jpeg",
+        "sof": "SOF0",
+        "precision": 8,
+        "height": 900,
+        "width": 1600,
+        "components": 3
+      },
+      "alpha": {
+        "bucketsOf32": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1440000
+        ],
+        "fullyOpaquePct": 100,
+        "pureBlackTransparentPx": 0
+      },
+      "dominant": [
+        {
+          "hex": "#e5edef",
+          "x": 588,
+          "y": 44,
+          "share": 0.2781
+        },
+        {
+          "hex": "#a6a380",
+          "x": 1072,
+          "y": 604,
+          "share": 0.1399
+        },
+        {
+          "hex": "#cec99f",
+          "x": 537,
+          "y": 200,
+          "share": 0.1359
+        },
+        {
+          "hex": "#777963",
+          "x": 213,
+          "y": 49,
+          "share": 0.1275
+        },
+        {
+          "hex": "#515242",
+          "x": 451,
+          "y": 25,
+          "share": 0.1273
+        },
+        {
+          "hex": "#c3d9e4",
+          "x": 815,
+          "y": 37,
+          "share": 0.0923
+        },
+        {
+          "hex": "#292519",
+          "x": 262,
+          "y": 210,
+          "share": 0.0711
+        },
+        {
+          "hex": "#17263d",
+          "x": 752,
+          "y": 227,
+          "share": 0.0278
+        }
+      ]
+    },
+    {
+      "file": "reference/FOLIO 4.jpg.jpeg",
+      "bytes": 399272,
+      "container": {
+        "kind": "jpeg",
+        "sof": "SOF0",
+        "precision": 8,
+        "height": 900,
+        "width": 1600,
+        "components": 3
+      },
+      "alpha": {
+        "bucketsOf32": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1440000
+        ],
+        "fullyOpaquePct": 100,
+        "pureBlackTransparentPx": 0
+      },
+      "dominant": [
+        {
+          "hex": "#e5edef",
+          "x": 588,
+          "y": 44,
+          "share": 0.2764
+        },
+        {
+          "hex": "#a6a380",
+          "x": 1072,
+          "y": 604,
+          "share": 0.1407
+        },
+        {
+          "hex": "#cec99f",
+          "x": 537,
+          "y": 200,
+          "share": 0.1367
+        },
+        {
+          "hex": "#515242",
+          "x": 451,
+          "y": 25,
+          "share": 0.1271
+        },
+        {
+          "hex": "#777963",
+          "x": 213,
+          "y": 49,
+          "share": 0.127
+        },
+        {
+          "hex": "#c3d9e4",
+          "x": 815,
+          "y": 37,
+          "share": 0.092
+        },
+        {
+          "hex": "#292519",
+          "x": 262,
+          "y": 210,
+          "share": 0.0713
+        },
+        {
+          "hex": "#15233d",
+          "x": 981,
+          "y": 146,
+          "share": 0.0287
+        }
+      ]
+    },
+    {
+      "file": "reference/FOLIO 5.jpg.jpeg",
+      "bytes": 397996,
+      "container": {
+        "kind": "jpeg",
+        "sof": "SOF0",
+        "precision": 8,
+        "height": 900,
+        "width": 1600,
+        "components": 3
+      },
+      "alpha": {
+        "bucketsOf32": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1440000
+        ],
+        "fullyOpaquePct": 100,
+        "pureBlackTransparentPx": 0
+      },
+      "dominant": [
+        {
+          "hex": "#e5edef",
+          "x": 588,
+          "y": 44,
+          "share": 0.2766
+        },
+        {
+          "hex": "#a6a380",
+          "x": 1072,
+          "y": 604,
+          "share": 0.1404
+        },
+        {
+          "hex": "#cec99f",
+          "x": 537,
+          "y": 200,
+          "share": 0.1366
+        },
+        {
+          "hex": "#515242",
+          "x": 451,
+          "y": 25,
+          "share": 0.1275
+        },
+        {
+          "hex": "#777963",
+          "x": 213,
+          "y": 49,
+          "share": 0.1271
+        },
+        {
+          "hex": "#c2d8e5",
+          "x": 814,
+          "y": 37,
+          "share": 0.0912
+        },
+        {
+          "hex": "#292519",
+          "x": 262,
+          "y": 210,
+          "share": 0.0718
+        },
+        {
+          "hex": "#15233e",
+          "x": 1066,
+          "y": 162,
+          "share": 0.0288
+        }
+      ]
+    },
+    {
+      "file": "reference/FOLIO 6.jpg.jpeg",
+      "bytes": 400018,
+      "container": {
+        "kind": "jpeg",
+        "sof": "SOF0",
+        "precision": 8,
+        "height": 900,
+        "width": 1600,
+        "components": 3
+      },
+      "alpha": {
+        "bucketsOf32": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1440000
+        ],
+        "fullyOpaquePct": 100,
+        "pureBlackTransparentPx": 0
+      },
+      "dominant": [
+        {
+          "hex": "#e5edef",
+          "x": 588,
+          "y": 44,
+          "share": 0.2821
+        },
+        {
+          "hex": "#a6a380",
+          "x": 1072,
+          "y": 604,
+          "share": 0.1397
+        },
+        {
+          "hex": "#cec99f",
+          "x": 537,
+          "y": 200,
+          "share": 0.1363
+        },
+        {
+          "hex": "#777963",
+          "x": 213,
+          "y": 49,
+          "share": 0.1272
+        },
+        {
+          "hex": "#515242",
+          "x": 451,
+          "y": 25,
+          "share": 0.127
+        },
+        {
+          "hex": "#c1d7e4",
+          "x": 1583,
+          "y": 215,
+          "share": 0.0872
+        },
+        {
+          "hex": "#292519",
+          "x": 262,
+          "y": 210,
+          "share": 0.0713
+        },
+        {
+          "hex": "#16243e",
+          "x": 765,
+          "y": 156,
+          "share": 0.0293
+        }
+      ]
+    },
+    {
+      "file": "reference/SAMPUL FOLIO JPG.jpg.jpeg",
+      "bytes": 1024498,
+      "container": {
+        "kind": "jpeg",
+        "sof": "SOF0",
+        "precision": 8,
+        "height": 500,
+        "width": 1500,
+        "components": 3
+      },
+      "alpha": {
+        "bucketsOf32": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          750000
+        ],
+        "fullyOpaquePct": 100,
+        "pureBlackTransparentPx": 0
+      },
+      "dominant": [
+        {
+          "hex": "#e0e5e1",
+          "x": 1477,
+          "y": 3,
+          "share": 0.2282
+        },
+        {
+          "hex": "#a9a98d",
+          "x": 589,
+          "y": 220,
+          "share": 0.1525
+        },
+        {
+          "hex": "#898a78",
+          "x": 794,
+          "y": 230,
+          "share": 0.1379
+        },
+        {
+          "hex": "#c6c5a6",
+          "x": 611,
+          "y": 244,
+          "share": 0.1356
+        },
+        {
+          "hex": "#6a6d62",
+          "x": 222,
+          "y": 257,
+          "share": 0.1308
+        },
+        {
+          "hex": "#4f4f45",
+          "x": 292,
+          "y": 25,
+          "share": 0.1059
+        },
+        {
+          "hex": "#2f2e29",
+          "x": 80,
+          "y": 22,
+          "share": 0.0626
+        },
+        {
+          "hex": "#b8ccd5",
+          "x": 960,
+          "y": 9,
+          "share": 0.0465
+        }
+      ]
+    }
+  ],
+  "regions": [],
+  "palette": [
+    {
+      "role": "mark-blue",
+      "hex": "#496dce",
+      "file": "brand/LOGO FOLIO PNG.png",
+      "x": 792,
+      "y": 1100,
+      "region": [
+        790,
+        1100,
+        910,
+        1400
+      ],
+      "share": 0.999,
+      "note": "stem of the solid F",
+      "method": "k-means (k=4, region) -> largest cluster (>=2% share) -> nearest real pixel"
+    },
+    {
+      "role": "mark-lilac",
+      "hex": "#9da7ca",
+      "file": "brand/LOGO FOLIO PNG.png",
+      "x": 1057,
+      "y": 540,
+      "region": [
+        1000,
+        540,
+        1340,
+        670
+      ],
+      "share": 0.99,
+      "note": "upper bar of the F",
+      "method": "k-means (k=4, region) -> largest cluster (>=2% share) -> nearest real pixel"
+    },
+    {
+      "role": "cream",
+      "hex": "#e8dec5",
+      "file": "brand/LOGO FOLIO PNG.png",
+      "x": 20,
+      "y": 20,
+      "region": [
+        20,
+        20,
+        500,
+        500
+      ],
+      "share": 1,
+      "note": "logo ground, warm variant",
+      "method": "k-means (k=4, region) -> largest cluster (>=2% share) -> nearest real pixel"
+    },
+    {
+      "role": "ink",
+      "hex": "#0c1c3d",
+      "file": "reference/FOLIO 1.jpg.jpeg",
+      "x": 952,
+      "y": 152,
+      "region": [
+        712,
+        150,
+        1380,
+        270
+      ],
+      "share": 0.322,
+      "note": "headline lettering",
+      "method": "k-means (k=4, region) -> darkest cluster (>=2% share) -> nearest real pixel"
+    },
+    {
+      "role": "body-ink",
+      "hex": "#2f3847",
+      "file": "reference/FOLIO 1.jpg.jpeg",
+      "x": 1236,
+      "y": 308,
+      "region": [
+        712,
+        298,
+        1430,
+        400
+      ],
+      "share": 0.103,
+      "note": "paragraph lettering",
+      "method": "k-means (k=4, region) -> darkest cluster (>=2% share) -> nearest real pixel"
+    },
+    {
+      "role": "feather-green",
+      "hex": "#047549",
+      "file": "reference/FOLIO 1.jpg.jpeg",
+      "x": 868,
+      "y": 457,
+      "region": [
+        850,
+        436,
+        884,
+        472
+      ],
+      "share": null,
+      "note": "chain feather glyph",
+      "method": "max-chroma real pixel inside region"
+    },
+    {
+      "role": "cap-red",
+      "hex": "#f94e44",
+      "file": "reference/FOLIO 1.jpg.jpeg",
+      "x": 185,
+      "y": 688,
+      "region": [
+        150,
+        668,
+        222,
+        700
+      ],
+      "share": null,
+      "note": "red cap on the near sheep",
+      "method": "max-chroma real pixel inside region"
+    },
+    {
+      "role": "jacket-rust",
+      "hex": "#a66c47",
+      "file": "reference/FOLIO 1.jpg.jpeg",
+      "x": 317,
+      "y": 548,
+      "region": [
+        300,
+        520,
+        420,
+        560
+      ],
+      "share": 0.306,
+      "note": "shepherd jacket",
+      "method": "k-means (k=4, region) -> saturated cluster (>=2% share) -> nearest real pixel"
+    },
+    {
+      "role": "hat-amber",
+      "hex": "#e6b02c",
+      "file": "reference/FOLIO 1.jpg.jpeg",
+      "x": 975,
+      "y": 866,
+      "region": [
+        960,
+        850,
+        1010,
+        880
+      ],
+      "share": null,
+      "note": "straw hat",
+      "method": "max-chroma real pixel inside region"
+    },
+    {
+      "role": "sky",
+      "hex": "#cfe3ec",
+      "file": "reference/FOLIO 1.jpg.jpeg",
+      "x": 1245,
+      "y": 20,
+      "region": [
+        1100,
+        20,
+        1500,
+        120
+      ],
+      "share": 1,
+      "note": "sky",
+      "method": "k-means (k=4, region) -> largest cluster (>=2% share) -> nearest real pixel"
+    },
+    {
+      "role": "meadow",
+      "hex": "#d0c99b",
+      "file": "reference/FOLIO 1.jpg.jpeg",
+      "x": 1186,
+      "y": 623,
+      "region": [
+        1100,
+        620,
+        1400,
+        700
+      ],
+      "share": 0.388,
+      "note": "meadow",
+      "method": "k-means (k=4, region) -> largest cluster (>=2% share) -> nearest real pixel"
+    },
+    {
+      "role": "wolf-fur",
+      "hex": "#2f2116",
+      "file": "reference/FOLIO 1.jpg.jpeg",
+      "x": 625,
+      "y": 656,
+      "region": [
+        600,
+        650,
+        780,
+        760
+      ],
+      "share": 0.264,
+      "note": "wolf coat",
+      "method": "k-means (k=4, region) -> darkest cluster (>=2% share) -> nearest real pixel"
+    }
+  ]
+}

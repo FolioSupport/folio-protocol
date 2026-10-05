@@ -1,0 +1,194 @@
+[
+  {
+    "role": "mark-blue",
+    "hex": "#496dce",
+    "file": "brand/LOGO FOLIO PNG.png",
+    "x": 792,
+    "y": 1100,
+    "region": [
+      790,
+      1100,
+      910,
+      1400
+    ],
+    "share": 0.999,
+    "note": "stem of the solid F",
+    "method": "k-means (k=4, region) -> largest cluster (>=2% share) -> nearest real pixel"
+  },
+  {
+    "role": "mark-lilac",
+    "hex": "#9da7ca",
+    "file": "brand/LOGO FOLIO PNG.png",
+    "x": 1057,
+    "y": 540,
+    "region": [
+      1000,
+      540,
+      1340,
+      670
+    ],
+    "share": 0.99,
+    "note": "upper bar of the F",
+    "method": "k-means (k=4, region) -> largest cluster (>=2% share) -> nearest real pixel"
+  },
+  {
+    "role": "cream",
+    "hex": "#e8dec5",
+    "file": "brand/LOGO FOLIO PNG.png",
+    "x": 20,
+    "y": 20,
+    "region": [
+      20,
+      20,
+      500,
+      500
+    ],
+    "share": 1,
+    "note": "logo ground, warm variant",
+    "method": "k-means (k=4, region) -> largest cluster (>=2% share) -> nearest real pixel"
+  },
+  {
+    "role": "ink",
+    "hex": "#0c1c3d",
+    "file": "reference/FOLIO 1.jpg.jpeg",
+    "x": 952,
+    "y": 152,
+    "region": [
+      712,
+      150,
+      1380,
+      270
+    ],
+    "share": 0.322,
+    "note": "headline lettering",
+    "method": "k-means (k=4, region) -> darkest cluster (>=2% share) -> nearest real pixel"
+  },
+  {
+    "role": "body-ink",
+    "hex": "#2f3847",
+    "file": "reference/FOLIO 1.jpg.jpeg",
+    "x": 1236,
+    "y": 308,
+    "region": [
+      712,
+      298,
+      1430,
+      400
+    ],
+    "share": 0.103,
+    "note": "paragraph lettering",
+    "method": "k-means (k=4, region) -> darkest cluster (>=2% share) -> nearest real pixel"
+  },
+  {
+    "role": "feather-green",
+    "hex": "#047549",
+    "file": "reference/FOLIO 1.jpg.jpeg",
+    "x": 868,
+    "y": 457,
+    "region": [
+      850,
+      436,
+      884,
+      472
+    ],
+    "share": null,
+    "note": "chain feather glyph",
+    "method": "max-chroma real pixel inside region"
+  },
+  {
+    "role": "cap-red",
+    "hex": "#f94e44",
+    "file": "reference/FOLIO 1.jpg.jpeg",
+    "x": 185,
+    "y": 688,
+    "region": [
+      150,
+      668,
+      222,
+      700
+    ],
+    "share": null,
+    "note": "red cap on the near sheep",
+    "method": "max-chroma real pixel inside region"
+  },
+  {
+    "role": "jacket-rust",
+    "hex": "#a66c47",
+    "file": "reference/FOLIO 1.jpg.jpeg",
+    "x": 317,
+    "y": 548,
+    "region": [
+      300,
+      520,
+      420,
+      560
+    ],
+    "share": 0.306,
+    "note": "shepherd jacket",
+    "method": "k-means (k=4, region) -> saturated cluster (>=2% share) -> nearest real pixel"
+  },
+  {
+    "role": "hat-amber",
+    "hex": "#e6b02c",
+    "file": "reference/FOLIO 1.jpg.jpeg",
+    "x": 975,
+    "y": 866,
+    "region": [
+      960,
+      850,
+      1010,
+      880
+    ],
+    "share": null,
+    "note": "straw hat",
+    "method": "max-chroma real pixel inside region"
+  },
+  {
+    "role": "sky",
+    "hex": "#cfe3ec",
+    "file": "reference/FOLIO 1.jpg.jpeg",
+    "x": 1245,
+    "y": 20,
+    "region": [
+      1100,
+      20,
+      1500,
+      120
+    ],
+    "share": 1,
+    "note": "sky",
+    "method": "k-means (k=4, region) -> largest cluster (>=2% share) -> nearest real pixel"
+  },
+  {
+    "role": "meadow",
+    "hex": "#d0c99b",
+    "file": "reference/FOLIO 1.jpg.jpeg",
+    "x": 1186,
+    "y": 623,
+    "region": [
+      1100,
+      620,
+      1400,
+      700
+    ],
+    "share": 0.388,
+    "note": "meadow",
+    "method": "k-means (k=4, region) -> largest cluster (>=2% share) -> nearest real pixel"
+  },
+  {
+    "role": "wolf-fur",
+    "hex": "#2f2116",
+    "file": "reference/FOLIO 1.jpg.jpeg",
+    "x": 625,
+    "y": 656,
+    "region": [
+      600,
+      650,
+      780,
+      760
+    ],
+    "share": 0.264,
+    "note": "wolf coat",
+    "method": "k-means (k=4, region) -> darkest cluster (>=2% share) -> nearest real pixel"
+  }
+]
